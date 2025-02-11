@@ -32,7 +32,7 @@ Here are some of my notable Minecraft plugins:
 ✨ **Features**:  
 - Specify which languages you want to read and type in
 - Support for over 30 languages
-- Integration with AI model via key 
+- Integration with AI model via key                
 🔗 **Download**: [SpigotMC Resource Page](https://www.spigotmc.org/resources)  
 📂 **Source Code**: [GitHub Repository](https://github.com/TomTeDev/Lingua)  
 

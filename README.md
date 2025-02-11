@@ -24,7 +24,7 @@ Here are some of my notable Minecraft plugins:
 - Create custom ores made out of blocks, heads, and fluids  
 - Supports multiple plugins such as ItemsAdder and WorldGuard
 - Easy-to-use GUI for admins  
-🔗 **Download**: [SpigotMC Resource Page](https://www.spigotmc.org/resources/regenerative-ores.107173/)  
+🔗 **Download**: [SpigotMC Resource Page](https://www.spigotmc.org/resources)  
 📂 **Source Code**: [GitHub Repository](https://github.com/TomTeDev/RegenerativeOres)  
 
 ### 2. **Lingua**  
@@ -33,7 +33,7 @@ Here are some of my notable Minecraft plugins:
 - Specify which languages you want to read and type in
 - Support for over 30 languages
 - Integration with AI model via key 
-🔗 **Download**: [SpigotMC Resource Page](https://www.spigotmc.org/resources/lingua.107174/)  
+🔗 **Download**: [SpigotMC Resource Page](https://www.spigotmc.org/resources)  
 📂 **Source Code**: [GitHub Repository](https://github.com/TomTeDev/Lingua)  
 
 ### 3. **TGuilds**  
@@ -42,7 +42,7 @@ Here are some of my notable Minecraft plugins:
 - Create guilds with specific roles and permissions
 - Support for multiple versions 
 - Integration with economy plugins like Vault  
-🔗 **Download**: [SpigotMC Resource Page](https://www.spigotmc.org/resources/tguilds.107175/)  
+🔗 **Download**: [SpigotMC Resource Page](https://www.spigotmc.org/resources)  
 📂 **Source Code**: [GitHub Repository](https://github.com/TomTeDev/TGuilds)  
 
 ### 4. **OraxenGenerator**  

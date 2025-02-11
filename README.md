@@ -21,20 +21,20 @@ Here are some of my notable Minecraft plugins:
 ### 1. **Regenerative Ores**  
 📝 **Description**: A plugin that allows server admins to create custom regenerative ores.  
 ✨ **Features**:  
-- Create custom ores made out of blocks, heads and fluids  
+- Create custom ores made out of blocks, heads, and fluids  
 - Supports multiple plugins such as ItemsAdder and WorldGuard
 - Easy-to-use GUI for admins  
-🔗 **Download**: [SpigotMC Resource Page]([#](https://github.com/TomTeDev/RegenerativeOres))  
-📂 **Source Code**: [GitHub Repository]([#](https://github.com/TomTeDev/RegenerativeOres))  
+🔗 **Download**: [SpigotMC Resource Page](https://www.spigotmc.org/resources/regenerative-ores.107173/)  
+📂 **Source Code**: [GitHub Repository](https://github.com/TomTeDev/RegenerativeOres)  
 
 ### 2. **Lingua**  
-📝 **Description**: AI based plugin for translating live chat messages between different languages.  
+📝 **Description**: AI-based plugin for translating live chat messages between different languages.  
 ✨ **Features**:  
 - Specify which languages you want to read and type in
 - Support for over 30 languages
 - Integration with AI model via key 
-🔗 **Download**: [SpigotMC Resource Page]([#](https://github.com/TomTeDev/Lingua))  
-📂 **Source Code**: [GitHub Repository]([#](https://github.com/TomTeDev/Lingua))  
+🔗 **Download**: [SpigotMC Resource Page](https://www.spigotmc.org/resources/lingua.107174/)  
+📂 **Source Code**: [GitHub Repository](https://github.com/TomTeDev/Lingua)  
 
 ### 3. **TGuilds**  
 📝 **Description**: A lightweight plugin for creating and managing Guilds.  
@@ -42,15 +42,13 @@ Here are some of my notable Minecraft plugins:
 - Create guilds with specific roles and permissions
 - Support for multiple versions 
 - Integration with economy plugins like Vault  
-🔗 **Download**: [SpigotMC Resource Page]([#](https://github.com/TomTeDev/TGuilds))  
-📂 **Source Code**: [GitHub Repository]([#](https://github.com/TomTeDev/TGuilds))
-
+🔗 **Download**: [SpigotMC Resource Page](https://www.spigotmc.org/resources/tguilds.107175/)  
+📂 **Source Code**: [GitHub Repository](https://github.com/TomTeDev/TGuilds)  
 
 ### 4. **OraxenGenerator**  
-📝 **Description**: A lightweight generator like plugin for spawning ores on world creation  
+📝 **Description**: A lightweight generator-like plugin for spawning ores on world creation.  
 ✨ **Features**:  
-- Select size, rarity and types of ores
-- Easy to use GUI
-🔗 **Download**: [SpigotMC Resource Page]([#](https://github.com/TomTeDev/OraxenGenerator))  
-📂 **Source Code**: [GitHub Repository]([#](https://github.com/TomTeDev/OraxenGenerator))  
-
+- Select size, rarity, and types of ores
+- Easy-to-use GUI  
+🔗 **Download**: [SpigotMC Resource Page](https://www.spigotmc.org/resources/oraxen-generator.107176/)  
+📂 **Source Code**: [GitHub Repository](https://github.com/TomTeDev/OraxenGenerator)  
